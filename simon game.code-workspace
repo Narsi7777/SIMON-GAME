@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Drum+Kit+Completed/Drum Kit Completed"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "simon game"
+	}
+}
